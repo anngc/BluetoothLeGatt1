@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat May 19 00:18:22 CEST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Anna\\AndroidStudioProjects\\BluetoothLeGatt1\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
